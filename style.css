@@ -1,0 +1,21 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.quem-somos{    
+    color: black;
+}
+
+.margin{      
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #929292;
+    color: #fff;
+}
+
+.bg-dark{
+    color: #fff;
+}
